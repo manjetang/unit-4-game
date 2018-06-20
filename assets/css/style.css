@@ -1,0 +1,23 @@
+.jumbotron {
+      background-image: url("../images/jumbotron-bg.jpg");
+      background-size: cover;
+      background-color: lightskyblue;
+      
+    }
+    
+    .jumbotron h1 {
+      color: #777;
+      text-shadow: 4px 4px; 
+      background-color: lightblue
+    
+    }
+    
+    .instructions {
+      text-align: center; 
+      color: #777;
+      background-color: 215e54;
+    }
+
+    .container-fluid {
+      
+    }
